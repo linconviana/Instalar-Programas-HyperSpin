@@ -1,0 +1,7 @@
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\bin\Debug\Instalar Programas Hyperspin.exe.config
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\bin\Debug\Instalar Programas Hyperspin.exe
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\bin\Debug\Instalar Programas Hyperspin.pdb
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\obj\Debug\Instalar Programas Hyperspin.csproj.AssemblyReference.cache
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\obj\Debug\Instalar Programas Hyperspin.csproj.CoreCompileInputs.cache
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\obj\Debug\Instalar Programas Hyperspin.exe
+C:\Users\Lincon\source\repos\Instalar Programas Hyperspin\Instalar Programas Hyperspin\obj\Debug\Instalar Programas Hyperspin.pdb
